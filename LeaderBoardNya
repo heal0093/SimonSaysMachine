@@ -1,17 +1,67 @@
 <html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style></style>
+
+</head>
 <body>
-  
-<h1>LEADERBOARD</h1>
-  
-  <form action="https://api.particle.io/v1/devices/deviceID/variable name?access_token=access token here" method="POST">
-    <input type="radio" name="args" value="Heat">Set thermostat mode to HEAT.<br>
-    <input type="radio" name="args" value="Off">Set thermostat mode to OFF.<br>
-    <input type="radio" name="args" value="Cool">Set thermostat mode to COOL.<br>
-    <input type="submit" value="Do it!">
-  
-  
-  
-  
-</form>
+<u></u>
+    
+    <div>
+        <h1>Leaderboard</h1>
+        <table>
+            
+            <tbody><tr><th>
+                Player Number
+            </th>
+            <th>
+                Score
+            </th>
+
+            
+            </tr><tr>
+                <td>
+                player 1
+                </td>
+
+                <td>
+                score 2
+                </td>
+            </tr>
+
+            
+            <tr>
+                <td>
+                player 2
+                </td>
+
+                <td>
+                score 2
+                </td>
+            </tr>
+            
+            <tr>
+                <td>
+                player 3
+                </td>
+
+                <td>
+                score 3
+                </td>
+            </tr>
+            
+            <tr>
+                <td>
+                player 4
+                </td>
+
+                <td>
+                score 4
+                </td>
+            </tr>
+
+        </tbody></table>
+    </div>
 </body>
 </html>
