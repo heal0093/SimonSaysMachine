@@ -1,0 +1,3 @@
+simonSaysV2 has most of the code completed. Off the top of my head, the main incomplete items are the point tracker and the IOT stuff. Everything else functions at a basic level. This includes switching between active and idle mode, lighting the correct LEDS, reading appropriate inputs, and keeping the loop going. 
+
+I put comments on most of the items, but let me know if there's something you dont understand on there.
