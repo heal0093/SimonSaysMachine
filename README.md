@@ -1,4 +1,4 @@
-# SimonSaysLigma
+# SimonSaysMachine
 SimonSays
 Team Members: Frida Fortier, Alexa Woods, Will Nisbet, Santiago Jurado, Ronan Heal, Tinsae Bekele
 
