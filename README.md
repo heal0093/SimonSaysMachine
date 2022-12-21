@@ -9,7 +9,7 @@ Project Files:
   - simonSaysV3
     - simonSaysV3.ino
     - simonSaysV3.cpp
-    - test.cpp
+    - test.html
   - LeaderBoardNya
   - README.md
 
